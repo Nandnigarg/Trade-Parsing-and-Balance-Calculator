@@ -1,0 +1,27 @@
+{
+  "name": "trade-parsing-and-balance-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nandnigarg/Trade-Parsing-and-Balance-Calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nandnigarg/Trade-Parsing-and-Balance-Calculator/issues"
+  },
+  "homepage": "https://github.com/Nandnigarg/Trade-Parsing-and-Balance-Calculator#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.4.3",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
